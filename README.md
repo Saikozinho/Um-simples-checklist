@@ -32,7 +32,7 @@ A Causa: Identifique o motivo real (ex: cansaço, distração).
 
 O Caminho: Defina uma ação prática para que o erro não se repita.
 
-[INSIRA AQUI UMA IMAGEM DO FORMULÁRIO DE REGISTRO DE ERROS]
+![Aba reflexão](assets/Checklist_demo3.png)
 
 🌱 4. Gestão de Hábitos
 Dividido entre bons hábitos que você quer Construir e maus hábitos que quer Destruir.
@@ -73,6 +73,7 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
 
 
 
