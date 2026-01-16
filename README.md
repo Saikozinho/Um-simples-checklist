@@ -11,7 +11,7 @@ https://saikozinho.github.io/Um-simples-checklist/
 4. Finalize o dia
 5. Recarregue a página e veja o histórico
 
-
+---
 
 🚀 Guia de Uso: SmartCheck - Painel de Evolução
 O SmartCheck é a sua ferramenta completa para produtividade, gestão de hábitos e autoconhecimento. Este guia explica cada funcionalidade para você tirar o melhor proveito do seu painel.
@@ -92,6 +92,7 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
 
 
 
