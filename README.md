@@ -4,6 +4,13 @@ https://saikozinho.github.io/Um-simples-checklist/
 
 💾 Os dados são salvos no navegador (localStorage).
 
+## Teste rápido (1 minuto)
+1. Abra o link da demo
+2. Crie 2 tarefas no checklist
+3. Marque uma como concluída
+4. Finalize o dia
+5. Recarregue a página e veja o histórico
+
 
 
 🚀 Guia de Uso: SmartCheck - Painel de Evolução
@@ -85,6 +92,7 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
 
 
 
