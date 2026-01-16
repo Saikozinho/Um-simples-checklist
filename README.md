@@ -36,7 +36,7 @@ O Caminho: Defina uma ação prática para que o erro não se repita.
 
 🌱 4. Gestão de Hábitos
 Dividido entre bons hábitos que você quer Construir e maus hábitos que quer Destruir.
-
+![Aba Hábitos](assets/Checklist_demo7.png)
 Bons: Liste hábitos positivos (ex: Meditar, Ler).
 
 Maus: Registre o que quer eliminar. Quando conseguir vencer um vício ou mau hábito, use o botão para "Destruí-lo" e registrar a data da vitória.
@@ -52,14 +52,18 @@ Plano de Ação: O passo a passo detalhado.
 
 Visualização: Seus projetos ficam salvos em cards modernos para fácil consulta.
 
-![Aba Hábitos](assets/Checklist_demo4.png)
+![Aba Planejamento](assets/Checklist_demo4.png)
 
 🎨 6. Personalização (Temas e Abas)
 Deixe o painel com a sua cara.
 
+![Aba Personalização](assets/Checklist_demo6.png)
+
 Temas: No menu lateral, você pode alterar as cores primárias, de destaque e de fundo.
 
 Criar Abas: Precisa de um espaço para anotações extras? Use a função "Criar Aba" para adicionar seções personalizadas ao seu menu.
+
+![Aba Extra](assets/Checklist_demo5.png)
 
 💾 7. Segurança e Backup
 Seus dados são salvos localmente no seu navegador, mas você pode garantir que nunca os perderá:
@@ -68,11 +72,12 @@ Salvar Backup (.md): Exporta todos os seus dados para um arquivo de texto.
 
 Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve automaticamente cada alteração (disponível em navegadores modernos).
 
-[INSIRA AQUI UMA IMAGEM DO MENU LATERAL MOSTRANDO AS OPÇÕES DE BACKUP]
+![Aba Segurança e Backup ](assets/Checklist_demo5.png)
 
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
 
 
 
