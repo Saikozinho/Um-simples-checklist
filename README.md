@@ -10,7 +10,7 @@ Finalizar Dia: Ao completar as tarefas, clique no botão para salvar o dia no se
 
 Rotina Mínima: Use o ícone de folha (🍃) para dias mais leves onde você quer focar apenas no essencial.
 
-[Checklist_demo1.png]
+[assets/Checklist_demo1.png]
 
 📜 2. Histórico e Filtros
 Acompanhe seu desempenho passado e veja onde você teve sucesso ou falhas.
@@ -73,3 +73,4 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
