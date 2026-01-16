@@ -10,7 +10,7 @@ Finalizar Dia: Ao completar as tarefas, clique no botão para salvar o dia no se
 
 Rotina Mínima: Use o ícone de folha (🍃) para dias mais leves onde você quer focar apenas no essencial.
 
-[INSIRA AQUI UMA IMAGEM DA ABA CHECKLIST]
+[Checklist_demo1.png]
 
 📜 2. Histórico e Filtros
 Acompanhe seu desempenho passado e veja onde você teve sucesso ou falhas.
@@ -71,4 +71,5 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 [INSIRA AQUI UMA IMAGEM DO MENU LATERAL MOSTRANDO AS OPÇÕES DE BACKUP]
 
 💡 Dica de Ouro:
+
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
