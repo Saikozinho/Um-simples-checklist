@@ -21,7 +21,7 @@ Justificativa: Se você não completar um dia, o sistema pedirá uma justificati
 
 Filtros: Use os botões de filtro no topo para ver apenas os dias que deseja analisar.
 
-[INSIRA AQUI UMA IMAGEM DO SEU HISTÓRICO COM OS FILTROS]
+![Aba histórico](assets/Checklist_demo2.png)
 
 🧠 3. Reflexão (Análise de Erros)
 Transforme falhas em aprendizado. Use esta aba sempre que algo não sair como planejado.
@@ -73,6 +73,7 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
 
 
 
