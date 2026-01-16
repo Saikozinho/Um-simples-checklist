@@ -74,3 +74,4 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
 
+
