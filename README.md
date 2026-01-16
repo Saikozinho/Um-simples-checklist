@@ -41,7 +41,8 @@ Bons: Liste hábitos positivos (ex: Meditar, Ler).
 
 Maus: Registre o que quer eliminar. Quando conseguir vencer um vício ou mau hábito, use o botão para "Destruí-lo" e registrar a data da vitória.
 
-[INSIRA AQUI UMA IMAGEM DA TELA DE HÁBITOS COM AS DUAS COLUNAS]
+![Aba Hábitos](assets/Checklist_demo4.png)
+![Aba Hábitos](assets/Checklist_demo5.png)
 
 🎯 5. Planejamento de Projetos
 Para objetivos de longo prazo que exigem mais do que um simples checklist.
@@ -52,7 +53,7 @@ Plano de Ação: O passo a passo detalhado.
 
 Visualização: Seus projetos ficam salvos em cards modernos para fácil consulta.
 
-[INSIRA AQUI UMA IMAGEM DE UM PROJETO PLANEJADO]
+![Aba Hábitos](assets/Checklist_demo5.png)
 
 🎨 6. Personalização (Temas e Abas)
 Deixe o painel com a sua cara.
@@ -73,6 +74,7 @@ Auto-Save: Conecte o sistema a um arquivo no seu computador para que ele salve a
 💡 Dica de Ouro:
 
 O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo em qualquer lugar, mesmo sem internet.
+
 
 
 
