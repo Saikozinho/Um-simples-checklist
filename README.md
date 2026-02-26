@@ -120,8 +120,18 @@ index.html
 style.css
 script.js
 
+Imagens:
+
+![Aba card](assets/Checklist_demo8.png)
+
+
+![Aba card_2](assets/Checklist_demo9.png)
+
+
+
 
 Todas as funcionalidades existentes foram preservadas sem qualquer alteração.
+
 
 
 
