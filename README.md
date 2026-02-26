@@ -97,6 +97,11 @@ O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo e
 
 
 
+
+
+
+
+
 Log de Atualizações
 Versão 2.0 – 26 de fevereiro de 2026
 Funcionalidades adicionadas:
@@ -117,6 +122,7 @@ script.js
 
 
 Todas as funcionalidades existentes foram preservadas sem qualquer alteração.
+
 
 
 
