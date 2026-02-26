@@ -97,6 +97,26 @@ O SmartCheck funciona 100% offline. Você pode baixar o arquivo HTML e usá-lo e
 
 
 
+Log de Atualizações
+Versão 2.0 – 26 de fevereiro de 2026
+Funcionalidades adicionadas:
+
+Animação de entrada
+Ao carregar o arquivo HTML, é exibida uma animação simples de um símbolo de checklist que aparece rapidamente no centro da tela. Em seguida, a animação desaparece e a tela principal do checklist é carregada automaticamente.
+Modo Cards por Dia
+Nova funcionalidade que exibe as tarefas do dia em formato de cards, uma tarefa por vez.
+Após marcar a tarefa atual como concluída, o próximo card é exibido automaticamente.
+Quando todas as tarefas do dia são concluídas, é apresentado um HUD personalizado e elegante informando que os cards foram resetados, pois o dia foi finalizado.
+Melhoria na interface
+A interface foi refinada para ficar mais bonita, organizada, intuitiva e clean, mantendo exatamente os mesmos tons de cores utilizados no projeto original.
+Organização do projeto
+Os arquivos foram separados para maior clareza e manutenção:
+index.html
+style.css
+script.js
+
+
+Todas as funcionalidades existentes foram preservadas sem qualquer alteração.
 
 
 
