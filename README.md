@@ -1,6 +1,6 @@
 
 🚀 Demo online:
-https://saikozinho.github.io/Um-simples-checklist/
+https://senhor-white.github.io/Um-simples-checklist/
 
 💾 Os dados são salvos no navegador (localStorage).
 
